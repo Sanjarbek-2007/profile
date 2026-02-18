@@ -58,13 +58,13 @@ Docker • Git • CI/CD (Jenkins, GitHub Actions basics)
 
 ## Featured Projects
 
-- **[Textora](https://github.com/SanjarbekYuldashev/textora)** (link when public)  
+- **[Textora](https://github.com/Sanjarbek-2007/textora)** (link when public)  
   Real-time messenger application developed in Java with Spring Boot. Uses PostgreSQL for data storage, Kafka for reliable queuing, and WebSocket for instant, low-latency message delivery — optimized for speed, security, and high load.
 
-- **[AuraLife](https://github.com/SanjarbekYuldashev/auralife)** (link when public)  
+- **[AuraLife](https://github.com/Sanjarbek-2007/Auralife)** (link when public)  
   Reusable OAuth2-based authentication & authorization server built with Java and Spring Security. Functions as a centralized identity provider (like Google Sign-In), allowing users to control data access consent across connected applications.
 
-- **[HAYDA](https://github.com/SanjarbekYuldashev/hayda)** (link when public)  
+- **HAYDA**  
   Backend system for a car-sharing platform in Java. Manages real-time vehicle discovery, booking logic, availability checks, and legal/compliance rules to enable seamless nearby car rentals and usage.
 
 - **Personal Requests**  
