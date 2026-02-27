@@ -28,7 +28,7 @@ Focus on microservices, event-driven architecture, real-time features, and relia
 
 - 🔭 Building scalable backends and reusable auth/messaging modules
 - 🌱 Exploring deeper distributed systems and cloud patterns
-- 📫 Open to collaborations: [your-email@example.com] (replace)
+- 📫 Open to collaborations: [yusanjiy@gmail.com] (replace)
 
 ## Skills
 
